@@ -6,3 +6,6 @@ How to Extract Data From Linkedin
 3) Click Manage Synced and Imported Contacts on the top right.
 4) Under Advanced actions on the bottom right, click Export Contacts.  
 5) Under the Download Your Data option, choose Connections.
+
+Tableau Dashboard Link:
+https://public.tableau.com/app/profile/harsh.shingala/viz/MyLinkedinConnectionAnalysis/Dashboard1
