@@ -1,4 +1,4 @@
-# MyLinkedin-Connections-Dashboard
+
 How to Extract Data From Linkedin 
 
 1) Click the My Network icon at the top of your LinkedIn homepage.
